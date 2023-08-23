@@ -1,0 +1,77 @@
+.edit-author-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .edit-author-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .edit-author-form label input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .edit-author-form h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .edit-author-form h3 {
+    margin-bottom: 5px;
+  }
+  
+  .edit-author-form div {
+    margin-top: 10px;
+  }
+  
+  .edit-author-form button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .edit-author-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .edit-author-form .book-details {
+    background-color: rgba(245, 245, 245, 0.13);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .edit-author-form .book-details div {
+    margin-bottom: 5px;
+  }
+  
+  .edit-author-form .book-details button {
+    margin-left: 10px;
+  }
+  
+  .edit-author-form .book-details strong {
+    font-weight: bold;
+  }
+  
+  .edit-author-form .no-genre {
+    font-style: italic;
+    color: #777;
+  }
+  
+  .edit-author-form .add-book-button {
+    margin-top: 10px;
+  }
+  
+ 

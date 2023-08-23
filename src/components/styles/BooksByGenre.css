@@ -1,0 +1,50 @@
+
+  
+  .books-by-genre button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .books-by-genre button:hover {
+    background-color: #45a049;
+  }
+  
+  .books-by-genre h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .books-by-genre h3 {
+    margin-bottom: 5px;
+  }
+  
+  .books-by-genre p {
+    margin-bottom: 10px;
+  }
+  
+  .books-by-genre .book-details {
+    background-color: rgba(245, 245, 245, 0.13);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .books-by-genre .book-details p {
+    margin: 0;
+  }
+  
+  .books-by-genre .book-details strong {
+    font-weight: bold;
+  }
+  
+  .books-by-genre .no-books {
+    font-style: italic;
+    color: #777;
+  }
+  
+ 

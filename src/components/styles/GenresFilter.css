@@ -1,0 +1,78 @@
+.genres-filter-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .genres-filter-container h1 {
+    margin-bottom: 10px;
+  }
+  
+  .genres-list {
+    margin-bottom: 10px;
+  }
+  
+  .genres-list div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .genres-list button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .genres-list button:hover {
+    background-color: #45a049;
+  }
+  
+  .add-genre {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .add-genre input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .add-genre button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .add-genre button:hover {
+    background-color: #45a049;
+  }
+  
+  .btn-show{
+    margin-top: 10px;
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  .btn-show:hover{
+    
+    background-color: #125eaf;
+    
+  }

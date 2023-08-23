@@ -1,0 +1,76 @@
+.add-author-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-author-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .add-author-form input[type="text"],
+  .add-author-form input[type="date"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-author-form .add-book-button {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .add-author-form .add-book-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .add-author-form .button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .add-author-form .cancel-button {
+    background-color: #ccc;
+    color: #000;
+  }
+  
+  .add-author-form .cancel-button:hover {
+    background-color: #b3b3b3;
+  }
+  
+  .add-author-form .add-book-button,
+  .add-author-form .cancel-button {
+    width: 48%;
+  }
+  
+  .add-author-form .add-book-button:focus,
+  .add-author-form .cancel-button:focus,
+  .add-author-form button[type="submit"]:focus {
+    outline: none;
+  }
+  
+  .add-author-form button[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .add-author-form button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+
+ 
